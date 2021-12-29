@@ -1,0 +1,9 @@
+Terminal Commands:
+cd Desktop
+mkdir Calculator
+cd Calculator
+touch calculator.js
+npm init
+npm install express
+npm install -g nodemon
+npx nodemon server
