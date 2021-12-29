@@ -7,3 +7,5 @@ npm init
 npm install express
 npm install -g nodemon
 npx nodemon server
+
+npm install body-parser
